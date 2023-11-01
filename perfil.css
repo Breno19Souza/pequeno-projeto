@@ -1,0 +1,116 @@
+    header{
+    text-align: center;
+    margin-top: 0px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    
+    background-color: burlywood;
+    min-width: 419px;
+    max-width: 1578px;
+    
+}
+
+h1 , h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10px;
+    background-color: #333; /* Cor de fundo do menu */
+    text-align: center;
+}
+
+li {
+    display: inline; /* Exibe os itens do menu na mesma linha */
+    margin-right: 10px; /* Espaço entre os itens do menu */
+    
+}
+
+a {
+    text-decoration: none;
+    color: white; /* Cor do texto do link */
+    padding: 5px 10px; /* Espaçamento interno */
+    border: 0px solid #777; /* Borda ao redor dos itens do menu */
+}
+
+/* Estilo para os links quando o mouse passa por cima */
+a:hover {
+    background-color: #555; /* Cor de fundo quando passa o mouse */
+}
+
+.parte1{
+    margin: auto;
+    flex-grow: inherit;
+    min-width: 419px;
+    max-width: 1578px;
+   
+
+
+}
+
+#capturas{
+    list-style: none;
+}
+
+.logo{
+   
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: auto;
+    min-width: 419px;
+    max-width: 1578px;
+    
+}
+
+.umparte{
+    margin: auto;
+    min-width: 419px;
+    max-width: 1578px;
+    
+}
+
+#pit{
+    color: #f1f1f1;
+    padding: 0px;
+   
+}
+
+#pi{
+    color: #f1f1f1;
+   padding: 0px;
+}
+
+.proff{
+    background-color: #333;
+    color: #f1f1f1;
+    margin: auto;
+    min-width: 419px;
+    max-width: 1578px;
+    
+}
+
+
+
+footer{
+    background-color:white;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px
+}
