@@ -10,7 +10,7 @@
 body{
     
     background-color: burlywood;
-    min-width: 419px;
+    min-width: 600px;
     max-width: 1578px;
     
 }
@@ -54,7 +54,7 @@ a:hover {
 .parte1{
     margin: auto;
     flex-grow: inherit;
-    min-width: 419px;
+    min-width: 600px;
     max-width: 1578px;
    
 
@@ -73,14 +73,14 @@ a:hover {
     align-items: center;
     padding: 0px;
     margin: auto;
-    min-width: 419px;
+    min-width: 600px;
     max-width: 1578px;
     
 }
 
 .umparte{
     margin: auto;
-    min-width: 419px;
+    min-width: 600px;
     max-width: 1578px;
     
 }
@@ -100,7 +100,7 @@ a:hover {
     background-color: #333;
     color: #f1f1f1;
     margin: auto;
-    min-width: 419px;
+    min-width: 600px;
     max-width: 1578px;
     
 }
